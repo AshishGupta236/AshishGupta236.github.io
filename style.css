@@ -13,6 +13,9 @@ body {
 h1 ,h2,h3,h4,h5,h6,p,span,td,a {
     cursor: pointer;
 }
+
+#port{
+    font-size: 35px;
 }
 /* NAVBAR*/
 .nav-section .navbar-brand {

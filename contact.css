@@ -1,0 +1,12 @@
+body{
+    /* display: flex;
+    margin-left: 40%; */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body a {
+    margin: 20px;
+    size: 50px;
+}
